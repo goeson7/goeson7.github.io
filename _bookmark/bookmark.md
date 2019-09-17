@@ -27,6 +27,7 @@
  * [에드위드][edwith] : 여러 분야 강의 있고, 외국 대학강의 번역한 것도 있음
  * [칸 아카데미][khan-academy] : 개발 이외에도 다양한 분야의 강의가 있음(영어)
  * [온오프믹스][on-off-mix]: 강연정보/신청
+ * [Git 브랜치 배우기][learn-git-branching]: 시각적으로 Git을 연습해볼 수 있음
 
 ## UX 참고
  * [CodePen][code-pen]
@@ -67,3 +68,4 @@
  [what-is-agile]: https://brunch.co.kr/@insuk/5
  [how-contribute-opensource]: http://www.bloter.net/archives/197960
  [learn-to-think]: https://medium.com/@cookatrice/dont-learn-to-code-learn-to-think-de4c2c774bc4
+ [learn-git-branching]: http://pcottle.github.io/learnGitBranching/index.html?demo
