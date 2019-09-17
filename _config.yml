@@ -1,4 +1,4 @@
-title: Android Dev
+title: 은근히 잘 되리라.
 author: goeson7
 email: #your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -12,8 +12,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: GoJeam
-  tagline: Android Developer
+  title: GoesOn
+  tagline: 안드린이
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
