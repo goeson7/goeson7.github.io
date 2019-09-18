@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Android 4.4.2 에서 View 하드웨어가속 설정 시 OOM 발생되는 현상"
+title:  "Android 4.4.2 에서 View 하드웨어가속 설정 시 OOM 현상"
 date:   2019-09-18 11:22:00 +0530
 ---
 
