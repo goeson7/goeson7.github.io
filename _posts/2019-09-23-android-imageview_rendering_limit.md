@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "특정 기기에서만 ImageView에 Bitmap 설정 시 보이지 않는다면?"
+title:  "특정 기기에서만 ImageView에 Bitmap 설정 시 보이지 않는 "
 date:   2019-09-23 23:16:00 +0530
 ---
 
