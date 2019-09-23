@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SQLiteCurruptException: Database disk image is malformed(code 11) 에러"
-date:   2019-09-16 21:14:00 +0530
+date:   2019-09-23 23:07:00 +0530
 ---
 
 안드로이드 앱 배포 시 업데이트할 DB 데이터 양이 많은 경우 기존 데이터를 삽입한 Sqlite DB 파일을 APK에 포함하여 배포하기도 한다.
