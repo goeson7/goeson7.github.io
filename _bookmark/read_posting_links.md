@@ -3,7 +3,7 @@
 
 ## Android
 ### View
- * [WindowInsets — Listeners to layouts (chris.banes.dev)][window-inset] 
+ * [WindowInsets — Listeners to layouts (chris.banes.dev)][window-insets] 
    - Window Inset(시스템UI와 앱 UI간 표시영역)을 코드로 직접(Manually) 처리했던 경험을 설명
    - Kotlin Extension Funtion, Android Databinding Adapter 사용하여 모델링
 
