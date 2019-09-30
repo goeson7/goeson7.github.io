@@ -8,7 +8,7 @@
    - Kotlin Extension Funtion, Android Databinding Adapter 사용하여 모델링
 
 ### Dependency Injection
- * [Dagger 2 for Android Beginners][dagger2-for-android-beginner] 
+ * [Dagger 2 for Android Beginners (Hari Vignesh Jayapalan)][dagger2-for-android-beginner] 
    - Android DI Framework 인 Dagger2에 대해 설명
    - 시리즈 7개로 단계별로 설명
 
