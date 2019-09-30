@@ -10,11 +10,11 @@
    - View 배경을 둥근 모서리로 만들때 색상 수만큼 <Shape/>으로 Resource XML을 생성하기는 귀찮.
    - Androi Databinding Adapter를 사용하여 코드로 해당 배경을 생성하는 꿀팁을 설명.
 
-### Dependency Injection
+### Dependency Injection - Dagger2
  * [Dagger 2 for Android Beginners][dagger2-for-android-beginner] 
    - Android DI Framework 인 Dagger2에 대해 설명
    - 시리즈 7개로 단계별로 설명
 
- [window-insets]: https://chris.banes.dev/2019/04/12/insets-listeners-to-layouts/\
- [dagger2-for-android-beginner]: https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb
+[window-insets]: https://chris.banes.dev/2019/04/12/insets-listeners-to-layouts/\
+[dagger2-for-android-beginner]: https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb
 [rounded-corner-view-programmatically]: https://www.charlezz.com/?p=10066
