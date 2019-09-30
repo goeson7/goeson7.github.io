@@ -10,7 +10,7 @@
    - View 배경을 둥근 모서리로 만들때 색상 수만큼 <Shape/>으로 Resource XML을 생성하기는 귀찮.
    - Androi Databinding Adapter를 사용하여 코드로 해당 배경을 생성하는 꿀팁을 설명.
 
-### Dependency Injection - Dagger2
+### Dependency Injection Framework
  * [Dagger 2 for Android Beginners][dagger2-for-android-beginner] 
    - Android DI Framework 인 Dagger2에 대해 설명
    - 시리즈 7개로 단계별로 설명
