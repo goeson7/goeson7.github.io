@@ -7,7 +7,7 @@
    - Window Inset(시스템UI와 앱 UI간 표시영역)을 코드로 직접(Manually) 처리했던 경험을 설명
    - Kotlin Extension Funtion, Android Databinding Adapter 사용하여 모델링
  * [View에 둥근 모서리를 갖는 배경색 지정하기][rounded-corner-view-programmatically]
-   - 버튼 등에 배경이 둥근모서리로 해야 할 경우 Shape을 사용하여 Resource XML을 생성하는데 배경 색상의 수만큼 생성하기는 귀찮음
+   - View 배경을 둥근 모서리로 만들때 색상 수만큼 <Shape/>으로 Resource XML을 생성하기는 귀찮.
    - Androi Databinding Adapter를 사용하여 코드로 해당 배경을 생성하는 꿀팁을 설명.
 
 ### Dependency Injection
