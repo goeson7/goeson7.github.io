@@ -15,6 +15,11 @@
    - Android DI Framework 인 Dagger2에 대해 설명
    - 시리즈 7개로 단계별로 설명
 
+### Architecture
+ * [안드로이드 클릭 아키텍쳐][android-clean-architecture-summary]
+   - Clean Architecture를 Android를 예로들어 간단하고 쉽게 설명
+
 [window-insets]: https://chris.banes.dev/2019/04/12/insets-listeners-to-layouts/\
 [dagger2-for-android-beginner]: https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb
 [rounded-corner-view-programmatically]: https://www.charlezz.com/?p=10066
+[android-clean-architecture-summary]: https://www.charlezz.com/?p=1461
